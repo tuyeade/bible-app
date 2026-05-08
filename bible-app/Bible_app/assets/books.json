@@ -1,0 +1,398 @@
+[
+    {
+        "abbr": "gn",
+        "name": "Genesis",
+        "desc": "The book of Genesis",
+        "chapters": 50
+    },
+    {
+        "abbr": "ex",
+        "name": "Exodus",
+        "desc": "The book of Exodus",
+        "chapters": 40
+    },
+    {
+        "abbr": "lv",
+        "name": "Leviticus",
+        "desc": "The book of Leviticus",
+        "chapters": 27
+    },
+    {
+        "abbr": "nm",
+        "name": "Numbers",
+        "desc": "The book of Numbers",
+        "chapters": 36
+    },
+    {
+        "abbr": "dt",
+        "name": "Deuteronomy",
+        "desc": "The book of Deuteronomy",
+        "chapters": 34
+    },
+    {
+        "abbr": "js",
+        "name": "Joshua",
+        "desc": "The book of Joshua",
+        "chapters": 24
+    },
+    {
+        "abbr": "jud",
+        "name": "Judges",
+        "desc": "The book of Judges",
+        "chapters": 21
+    },
+    {
+        "abbr": "rt",
+        "name": "Ruth",
+        "desc": "The book of Ruth",
+        "chapters": 4
+    },
+    {
+        "abbr": "1sm",
+        "name": "1 Samuel",
+        "desc": "The book of 1 Samuel",
+        "chapters": 31
+    },
+    {
+        "abbr": "2sm",
+        "name": "2 Samuel",
+        "desc": "The book of 2 Samuel",
+        "chapters": 24
+    },
+    {
+        "abbr": "1kgs",
+        "name": "1 Kings",
+        "desc": "The book of 1 Kings",
+        "chapters": 22
+    },
+    {
+        "abbr": "2kgs",
+        "name": "2 Kings",
+        "desc": "The book of 2 Kings",
+        "chapters": 25
+    },
+    {
+        "abbr": "1ch",
+        "name": "1 Chronicles",
+        "desc": "The book of 1 Chronicles",
+        "chapters": 29
+    },
+    {
+        "abbr": "2ch",
+        "name": "2 Chronicles",
+        "desc": "The book of 2 Chronicles",
+        "chapters": 36
+    },
+    {
+        "abbr": "ezr",
+        "name": "Ezra",
+        "desc": "The book of Ezra",
+        "chapters": 10
+    },
+    {
+        "abbr": "ne",
+        "name": "Nehemiah",
+        "desc": "The book of Nehemiah",
+        "chapters": 13
+    },
+    {
+        "abbr": "et",
+        "name": "Esther",
+        "desc": "The book of Esther",
+        "chapters": 10
+    },
+    {
+        "abbr": "job",
+        "name": "Job",
+        "desc": "The book of Job",
+        "chapters": 42
+    },
+    {
+        "abbr": "ps",
+        "name": "Psalms",
+        "desc": "The book of Psalms",
+        "chapters": 150
+    },
+    {
+        "abbr": "prv",
+        "name": "Proverbs",
+        "desc": "The book of Proverbs",
+        "chapters": 31
+    },
+    {
+        "abbr": "ec",
+        "name": "Ecclesiastes",
+        "desc": "The book of Ecclesiastes",
+        "chapters": 12
+    },
+    {
+        "abbr": "so",
+        "name": "Song of Solomon",
+        "desc": "The book of Song of Solomon",
+        "chapters": 8
+    },
+    {
+        "abbr": "is",
+        "name": "Isaiah",
+        "desc": "The book of Isaiah",
+        "chapters": 66
+    },
+    {
+        "abbr": "jr",
+        "name": "Jeremiah",
+        "desc": "The book of Jeremiah",
+        "chapters": 52
+    },
+    {
+        "abbr": "lm",
+        "name": "Lamentations",
+        "desc": "The book of Lamentations",
+        "chapters": 5
+    },
+    {
+        "abbr": "ez",
+        "name": "Ezekiel",
+        "desc": "The book of Ezekiel",
+        "chapters": 48
+    },
+    {
+        "abbr": "dn",
+        "name": "Daniel",
+        "desc": "The book of Daniel",
+        "chapters": 12
+    },
+    {
+        "abbr": "ho",
+        "name": "Hosea",
+        "desc": "The book of Hosea",
+        "chapters": 14
+    },
+    {
+        "abbr": "jl",
+        "name": "Joel",
+        "desc": "The book of Joel",
+        "chapters": 3
+    },
+    {
+        "abbr": "am",
+        "name": "Amos",
+        "desc": "The book of Amos",
+        "chapters": 9
+    },
+    {
+        "abbr": "ob",
+        "name": "Obadiah",
+        "desc": "The book of Obadiah",
+        "chapters": 1
+    },
+    {
+        "abbr": "jn",
+        "name": "Jonah",
+        "desc": "The book of Jonah",
+        "chapters": 4
+    },
+    {
+        "abbr": "mi",
+        "name": "Micah",
+        "desc": "The book of Micah",
+        "chapters": 7
+    },
+    {
+        "abbr": "na",
+        "name": "Nahum",
+        "desc": "The book of Nahum",
+        "chapters": 3
+    },
+    {
+        "abbr": "hk",
+        "name": "Habakkuk",
+        "desc": "The book of Habakkuk",
+        "chapters": 3
+    },
+    {
+        "abbr": "zp",
+        "name": "Zephaniah",
+        "desc": "The book of Zephaniah",
+        "chapters": 3
+    },
+    {
+        "abbr": "hg",
+        "name": "Haggai",
+        "desc": "The book of Haggai",
+        "chapters": 2
+    },
+    {
+        "abbr": "zc",
+        "name": "Zechariah",
+        "desc": "The book of Zechariah",
+        "chapters": 14
+    },
+    {
+        "abbr": "ml",
+        "name": "Malachi",
+        "desc": "The book of Malachi",
+        "chapters": 4
+    },
+    {
+        "abbr": "mt",
+        "name": "Matthew",
+        "desc": "The book of Matthew",
+        "chapters": 28
+    },
+    {
+        "abbr": "mk",
+        "name": "Mark",
+        "desc": "The book of Mark",
+        "chapters": 16
+    },
+    {
+        "abbr": "lk",
+        "name": "Luke",
+        "desc": "The book of Luke",
+        "chapters": 24
+    },
+    {
+        "abbr": "jo",
+        "name": "John",
+        "desc": "The book of John",
+        "chapters": 21
+    },
+    {
+        "abbr": "act",
+        "name": "Acts",
+        "desc": "The book of Acts",
+        "chapters": 28
+    },
+    {
+        "abbr": "rm",
+        "name": "Romans",
+        "desc": "The book of Romans",
+        "chapters": 16
+    },
+    {
+        "abbr": "1co",
+        "name": "1 Corinthians",
+        "desc": "The book of 1 Corinthians",
+        "chapters": 16
+    },
+    {
+        "abbr": "2co",
+        "name": "2 Corinthians",
+        "desc": "The book of 2 Corinthians",
+        "chapters": 13
+    },
+    {
+        "abbr": "gl",
+        "name": "Galatians",
+        "desc": "The book of Galatians",
+        "chapters": 6
+    },
+    {
+        "abbr": "eph",
+        "name": "Ephesians",
+        "desc": "The book of Ephesians",
+        "chapters": 6
+    },
+    {
+        "abbr": "ph",
+        "name": "Philippians",
+        "desc": "The book of Philippians",
+        "chapters": 4
+    },
+    {
+        "abbr": "cl",
+        "name": "Colossians",
+        "desc": "The book of Colossians",
+        "chapters": 4
+    },
+    {
+        "abbr": "1ts",
+        "name": "1 Thessalonians",
+        "desc": "The book of 1 Thessalonians",
+        "chapters": 5
+    },
+    {
+        "abbr": "2ts",
+        "name": "2 Thessalonians",
+        "desc": "The book of 2 Thessalonians",
+        "chapters": 3
+    },
+    {
+        "abbr": "1tm",
+        "name": "1 Timothy",
+        "desc": "The book of 1 Timothy",
+        "chapters": 6
+    },
+    {
+        "abbr": "2tm",
+        "name": "2 Timothy",
+        "desc": "The book of 2 Timothy",
+        "chapters": 4
+    },
+    {
+        "abbr": "tt",
+        "name": "Titus",
+        "desc": "The book of Titus",
+        "chapters": 3
+    },
+    {
+        "abbr": "phm",
+        "name": "Philemon",
+        "desc": "The book of Philemon",
+        "chapters": 1
+    },
+    {
+        "abbr": "hb",
+        "name": "Hebrews",
+        "desc": "The book of Hebrews",
+        "chapters": 13
+    },
+    {
+        "abbr": "jm",
+        "name": "James",
+        "desc": "The book of James",
+        "chapters": 5
+    },
+    {
+        "abbr": "1pe",
+        "name": "1 Peter",
+        "desc": "The book of 1 Peter",
+        "chapters": 5
+    },
+    {
+        "abbr": "2pe",
+        "name": "2 Peter",
+        "desc": "The book of 2 Peter",
+        "chapters": 3
+    },
+    {
+        "abbr": "1jo",
+        "name": "1 John",
+        "desc": "The book of 1 John",
+        "chapters": 5
+    },
+    {
+        "abbr": "2jo",
+        "name": "2 John",
+        "desc": "The book of 2 John",
+        "chapters": 1
+    },
+    {
+        "abbr": "3jo",
+        "name": "3 John",
+        "desc": "The book of 3 John",
+        "chapters": 1
+    },
+    {
+        "abbr": "jd",
+        "name": "Jude",
+        "desc": "The book of Jude",
+        "chapters": 1
+    },
+    {
+        "abbr": "re",
+        "name": "Revelation",
+        "desc": "The book of Revelation",
+        "chapters": 22
+    }
+]
